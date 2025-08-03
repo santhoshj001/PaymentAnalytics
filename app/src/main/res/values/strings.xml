@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaymentAnalytics</string>
+    <string name="permission_description">Allows access to analytics and metrics data</string>
+</resources>
